@@ -1,0 +1,56 @@
+#primero {
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+p {
+    margin: 20px;
+}
+
+#h1 {
+    border: 1px solid;
+    padding: 10px;
+}
+
+#a1 {
+    border: 2px solid green;
+}
+
+button {
+    width: 150px;
+    margin-right: 10px;
+}
+
+#ul1 li {
+    padding: 15px;
+}
+
+.ocho {
+    border: 1px solid black;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+#nueve {
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.diez {
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+}
+
+.once {
+    border: 1px solid black;
+    width: 250px;
+    height: 150px;
+    padding: ;
+}
